@@ -1,4 +1,9 @@
 Semaine 1:
-Plan de cours
-Rappel
-TestsnitaiRs
+-Plan de cours
+-Rappel
+-Tests unitaires
+
+Semaine 2:
+-git
+-JList statique
+-JListe dynamique
